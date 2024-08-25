@@ -1,6 +1,6 @@
 # Celenium Vested Addresses
 
-This project fetches vested addresses from the Celenium API and saves them to a CSV file.
+This project fetches addresses with vestings from the Celenium API and saves them to a CSV file.
 
 ## Setup
 

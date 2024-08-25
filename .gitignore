@@ -8,6 +8,7 @@ __pycache__/
 
 # Data
 data/*.csv
+checkpoint.json
 
 # OS files
 .DS_Store

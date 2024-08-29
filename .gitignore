@@ -9,6 +9,7 @@ __pycache__/
 # Data
 data/*.csv
 checkpoint.json
+withdraw_checkpoint.json
 
 # OS files
 .DS_Store
